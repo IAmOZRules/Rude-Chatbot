@@ -9,7 +9,7 @@ A mildly rude simple chat-bot made in Python using PyTorch.
 1. Make sure ```pytorch```, ```numpy```, and ```nltk``` are installed.
 > If not, run ```pip install pytorch numpy nltk torchvision```
 
-2. Clone the repository using ```git clone IAmOZRules/Rude-Chatbot.git```
+2. Clone the repository using ```git clone https://github.com/IAmOZRules/Rude-Chatbot.git```
 
 3. Navigate to the repository folder using ```cd Rude-Chatbot```
 
